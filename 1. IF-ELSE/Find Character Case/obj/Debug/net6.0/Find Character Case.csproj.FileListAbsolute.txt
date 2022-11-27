@@ -1,0 +1,15 @@
+E:\Data-Structures-and-Algorithms-C#\1. IF-ELSE\Find Character Case\bin\Debug\net6.0\Find Character Case.exe
+E:\Data-Structures-and-Algorithms-C#\1. IF-ELSE\Find Character Case\bin\Debug\net6.0\Find Character Case.deps.json
+E:\Data-Structures-and-Algorithms-C#\1. IF-ELSE\Find Character Case\bin\Debug\net6.0\Find Character Case.runtimeconfig.json
+E:\Data-Structures-and-Algorithms-C#\1. IF-ELSE\Find Character Case\bin\Debug\net6.0\Find Character Case.dll
+E:\Data-Structures-and-Algorithms-C#\1. IF-ELSE\Find Character Case\bin\Debug\net6.0\Find Character Case.pdb
+E:\Data-Structures-and-Algorithms-C#\1. IF-ELSE\Find Character Case\obj\Debug\net6.0\Find Character Case.csproj.AssemblyReference.cache
+E:\Data-Structures-and-Algorithms-C#\1. IF-ELSE\Find Character Case\obj\Debug\net6.0\Find Character Case.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data-Structures-and-Algorithms-C#\1. IF-ELSE\Find Character Case\obj\Debug\net6.0\Find Character Case.AssemblyInfoInputs.cache
+E:\Data-Structures-and-Algorithms-C#\1. IF-ELSE\Find Character Case\obj\Debug\net6.0\Find Character Case.AssemblyInfo.cs
+E:\Data-Structures-and-Algorithms-C#\1. IF-ELSE\Find Character Case\obj\Debug\net6.0\Find Character Case.csproj.CoreCompileInputs.cache
+E:\Data-Structures-and-Algorithms-C#\1. IF-ELSE\Find Character Case\obj\Debug\net6.0\Find Character Case.dll
+E:\Data-Structures-and-Algorithms-C#\1. IF-ELSE\Find Character Case\obj\Debug\net6.0\refint\Find Character Case.dll
+E:\Data-Structures-and-Algorithms-C#\1. IF-ELSE\Find Character Case\obj\Debug\net6.0\Find Character Case.pdb
+E:\Data-Structures-and-Algorithms-C#\1. IF-ELSE\Find Character Case\obj\Debug\net6.0\Find Character Case.genruntimeconfig.cache
+E:\Data-Structures-and-Algorithms-C#\1. IF-ELSE\Find Character Case\obj\Debug\net6.0\ref\Find Character Case.dll
