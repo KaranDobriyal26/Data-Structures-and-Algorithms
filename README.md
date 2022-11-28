@@ -11,3 +11,4 @@
 - Compiler Design Codes
 
 Find the Repository [here](https://github.com/KaranDobriyal26/Data-Structures-and-Algorithms)
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220509120600/Learn-Data-Structures-and-Algorithms-Easily.gif" />
