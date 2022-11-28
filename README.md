@@ -5,10 +5,8 @@
 - Data Structures Problems
 - Algorithms Implementations
 - Algorithms Problems
-- Interview Preparation Questions
-- Project Euler Solutions
-- Cracking the Coding Interview Book Solutions
-- Compiler Design Codes
+- Interview Preparation Questions 
+- Cracking the Coding Interview Book Solutions 
 
 Find the Repository [here](https://github.com/KaranDobriyal26/Data-Structures-and-Algorithms)
 <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220509120600/Learn-Data-Structures-and-Algorithms-Easily.gif" />
